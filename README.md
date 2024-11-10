@@ -8,7 +8,7 @@ This app replicates core Airbnb features, including user authentication, propert
 - Property listings with location, description, price, and availability
 - Search and filter functionality based on location, date, and price
 - User profile and booking history management
-- Book and manage property reservations
+- Book and manage property reservation
 
 ## Tech Stack
 - **Frontend:** React.js, Redux, Axios, Tailwind CSS 
