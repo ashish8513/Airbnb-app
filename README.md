@@ -18,4 +18,7 @@ This app replicates core Airbnb features, including user authentication, propert
 
   
    **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/airbnb-clone.git
+   cd airbnb-clone4
 
