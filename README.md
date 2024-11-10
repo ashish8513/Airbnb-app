@@ -15,3 +15,7 @@ This app replicates core Airbnb features, including user authentication, propert
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JSON Web Token 
 - **Environment Management:** dotenv
+
+  
+   **Clone the repository:**
+
