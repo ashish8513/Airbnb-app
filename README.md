@@ -16,10 +16,5 @@ This app replicates core Airbnb features, including user authentication, propert
 - **Authentication:** JSON Web Token 
 - **Environment Management:** dotenv
 
-  
-   **Clone the repository:**
-````
-Ashish Prabhakar
 
-`````
 
