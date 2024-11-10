@@ -13,7 +13,6 @@ This app replicates core Airbnb features, including user authentication, propert
 ## Tech Stack
 - **Frontend:** React.js, Redux, Axios, Tailwind CSS 
 - **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JSON Web Token 
 
 
 
