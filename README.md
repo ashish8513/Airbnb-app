@@ -9,11 +9,9 @@ This app replicates core Airbnb features, including user authentication, propert
 - Search and filter functionality based on location, date, and price
 - User profile and booking history management
 - Book and manage property reservations
-- Backend error handling and validation
 
 ## Tech Stack
-- **Frontend:** React.js, Redux, Axios, Tailwind CSS (or any preferred styling library)
-- **Backend:** Node.js, Express.js, MongoDB (Mongoose for ODM)
-- **Authentication:** JSON Web Token (JWT)
-- **Hosting:** (Optional: specify if hosted on Vercel, Heroku, or other platforms)
+- **Frontend:** React.js, Redux, Axios, Tailwind CSS 
+- **Backend:** Node.js, Express.js, MongoDB
+- **Authentication:** JSON Web Token 
 - **Environment Management:** dotenv
