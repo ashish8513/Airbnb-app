@@ -10,7 +10,5 @@ This app replicates core Airbnb features, including user authentication, propert
 - User profile and booking history management
 - Book and manage property reservation
 
-## Tech Stack
-
 
 
