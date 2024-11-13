@@ -1,8 +1,14 @@
-# React + Vite
+# Airbnb Clone - Full Stack Application (MERN)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a full stack Airbnb clone built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+This app replicates core Airbnb features, including user authentication, property listing, search, booking functionality, and profile management.
 
-Currently, two official plugins are available:
+## Features
+- User registration, login, and authentication with JWT
+- Property listings with location, description, price, and availability
+- Search and filter functionality based on location, date, and price
+- User profile and booking history management
+- Book and manage property reservation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
